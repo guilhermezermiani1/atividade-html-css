@@ -1,10 +1,8 @@
 body {
- background: -webkit-linear-gradient(90deg, #ceddd6,#b9babf,#f1bfa4);
- background: linear-gradient(90deg, #ceddd6,#b9babf,#f1bfa4);
+ background-color: #f0f0f0;
  font-family: Arial, sans-serif;
  text-align: center;
 }
 h1 {
- text-decoration: wavy;
- color: black;
+ color: darkblue;
 }
